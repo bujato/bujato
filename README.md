@@ -9,13 +9,14 @@
   </p>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bujato&show_icons=true&theme=github_dark&layout=compact&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" padding="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bujato&theme=github_dark&layout=compact&hide_border=true" />
-</a>
-
+<div align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="350" width="400" src="https://github-readme-stats.vercel.app/api?username=bujato&show_icons=true&theme=github_dark&layout=compact&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" height="350" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bujato&theme=github_dark&layout=compact&hide_border=true" />
+  </a>
+</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
