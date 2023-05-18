@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End; 
+    Estou aprendendo sobre desenvolvimento de software.
   </p>
 </div>
 
