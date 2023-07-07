@@ -36,5 +36,3 @@
   <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
-
-![snake gif](https://github.com/bujato/bujato/blob/output/github-contribution-grid-snake.svg)
